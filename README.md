@@ -1,7 +1,7 @@
 # Proper React Modal
 
 ## Introduction
-Implementing modal in the proper prescribed way I found.
+This project is all about implementing modal on a React App in the prescribed way that I found. It is built on React typescript which ensures type safety during development.
 
 ## Project
 Project is created with vite for faster development experience, based on React with Typescript.
